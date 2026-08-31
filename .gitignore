@@ -1,3 +1,7 @@
 .DS_Store
 
 /nidaankosha_analysis_website/images/
+
+/Result/Report_original.pdf
+
+/Code/build_report_pdf.py
